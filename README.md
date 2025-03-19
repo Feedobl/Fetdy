@@ -1,6 +1,10 @@
 # Fetdy
  a code/app that installs media from internet for more details see the readme file
 
+## Simple users app
+
+.exe file : https://www.dropbox.com/scl/fi/m1ufe7hnyp1qg4jsyb5dl/FetdySetup.exe?rlkey=x69lbouqpd8nwrch0a5ak5g85&st=0c6l1ldv&dl=0
+
 ## Supported Sites
 
 This application downloads media from various websites including:
@@ -12,7 +16,7 @@ This application downloads media from various websites including:
 - Twitch
 - Bilibili
 - Niconico
-- TikTok
+- TikTok ( starts from 1080p )
 - Peertube instances
 
 ### Social Media
