@@ -3,7 +3,7 @@
 
 ## Simple users app
 
-.exe file : https://www.dropbox.com/scl/fi/m1ufe7hnyp1qg4jsyb5dl/FetdySetup.exe?rlkey=x69lbouqpd8nwrch0a5ak5g85&st=0c6l1ldv&dl=0
+.exe file : https://www.dropbox.com/scl/fi/m1ufe7hnyp1qg4jsyb5dl/FetdySetup.exe?rlkey=x69lbouqpd8nwrch0a5ak5g85&st=0c6l1ldv&dl=1
 
 ## Supported Sites
 
